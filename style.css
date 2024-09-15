@@ -10,6 +10,9 @@ body{
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background: linear-gradient(#b7328d, #ac18c0);
+    background: linear-gradient(#326eb7, #18a4c0);
 
+}
+.container{
+    border: solid 1px rgba(255, 255, 255, 0.2)
 }
