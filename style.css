@@ -24,7 +24,7 @@ table{
 
 }
 thead{
-    background: rgba(243, 140, 210, 0.4);
+    background: rgba(55, 7, 150, 0.4);
 }
 th{
     padding: 20px 15px;
@@ -41,5 +41,5 @@ tbody tr{
     cursor: pointer;
 }
 tbody tr:hover {
-    background: rgba(243, 140, 210, 0.4);
+    background: rgba(58, 39, 155, 0.4);
 }
